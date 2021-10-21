@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+
+#title {
+    color:red;
+    font-size:40px;
+}
+
+#myCanvas {
+    border: grey ridge 7px;
+    border-radius:10px;
+}
+
+#olympic {
+    background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+    
+
+}
